@@ -1,5 +1,5 @@
 ---
-title: "Test Post"
+title: "Installation Note"
 date: 2022-12-21T19:45:30-05:00
 ---
 

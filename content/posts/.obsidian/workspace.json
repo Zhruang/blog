@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2101f7bb139d50c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "浪漫革命.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b003c72f5f0766ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "近义词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first-post.md",
+                "file": "近义词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "first-post.md",
+                "file": "近义词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "first-post.md"
+                "file": "近义词.md"
               }
             }
           }
@@ -159,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51cca888b2f74fea",
+  "active": "b003c72f5f0766ac",
   "lastOpenFiles": [
-    "installation-note.md",
+    "浪漫革命.md",
+    "近义词.md",
     "first-post.md",
+    "installation-note.md",
     "high-treason.md"
   ]
 }

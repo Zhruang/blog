@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on some blog!</title><link>https://Zhruang.github.io/blog/tags/</link><description>Recent content in Tags on some blog!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://Zhruang.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Test 2</title><link>https://Zhruang.github.io/blog/posts/test-2/</link><pubDate>Wed, 21 Dec 2022 19:51:17 -0500</pubDate><guid>https://Zhruang.github.io/blog/posts/test-2/</guid><description>&lt;h2 id="alta-traición--josé-emilio-pacheco">Alta traición – José Emilio Pacheco&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on some blog!</title><link>https://Zhruang.github.io/blog/tags/</link><description>Recent content in Tags on some blog!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://Zhruang.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Alta traición</title><link>https://Zhruang.github.io/blog/alta-traici%C3%B3n/</link><pubDate>Wed, 21 Dec 2022 19:51:17 -0500</pubDate><guid>https://Zhruang.github.io/blog/alta-traici%C3%B3n/</guid><description>&lt;h2 id="alta-traición--josé-emilio-pacheco">Alta traición – José Emilio Pacheco&lt;/h2>
 &lt;p>No amo mi Patria. Su fulgor abstracto
 es inasible.
 Pero (aunque suene mal) daría la vida
@@ -17,7 +17,7 @@ ports, pine forests, fortresses,
 a run-down city, gray, monstrous,
 various figures from its history,
 mountains
-(and three or four rivers).&lt;/p></description></item><item><title>Test Post</title><link>https://Zhruang.github.io/blog/posts/test-post/</link><pubDate>Wed, 21 Dec 2022 19:45:30 -0500</pubDate><guid>https://Zhruang.github.io/blog/posts/test-post/</guid><description>&lt;ul>
+(and three or four rivers).&lt;/p></description></item><item><title>Installation Note</title><link>https://Zhruang.github.io/blog/installation-note/</link><pubDate>Wed, 21 Dec 2022 19:45:30 -0500</pubDate><guid>https://Zhruang.github.io/blog/installation-note/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>2 vinyl signages&lt;/p>
 &lt;ul>
@@ -55,4 +55,57 @@ mountains
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>美华书馆</title><link>https://Zhruang.github.io/blog/%E7%BE%8E%E5%8D%8E%E4%B9%A6%E9%A6%86/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>https://Zhruang.github.io/blog/%E7%BE%8E%E5%8D%8E%E4%B9%A6%E9%A6%86/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>号数&lt;/th>
+&lt;th>中文&lt;/th>
+&lt;th>英文&lt;/th>
+&lt;th style="text-align:left">大小&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>一号&lt;/td>
+&lt;td>显字&lt;/td>
+&lt;td>Double pica&lt;/td>
+&lt;td style="text-align:left">28 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>二号&lt;/td>
+&lt;td>明字&lt;/td>
+&lt;td>Small double pica&lt;/td>
+&lt;td style="text-align:left">21 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>三号&lt;/td>
+&lt;td>中字&lt;/td>
+&lt;td>Two-line bravier&lt;/td>
+&lt;td style="text-align:left">16 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>四号&lt;/td>
+&lt;td>行字&lt;/td>
+&lt;td>English&lt;/td>
+&lt;td style="text-align:left">14 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>五号&lt;/td>
+&lt;td>解字&lt;/td>
+&lt;td>Small pica&lt;/td>
+&lt;td style="text-align:left">10.5 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>六号&lt;/td>
+&lt;td>注字&lt;/td>
+&lt;td>Brevier&lt;/td>
+&lt;td style="text-align:left">8 pt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>七号&lt;/td>
+&lt;td>珍字&lt;/td>
+&lt;td>Small ruby&lt;/td>
+&lt;td style="text-align:left">5.25 pt&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

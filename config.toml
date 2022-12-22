@@ -3,3 +3,25 @@ languageCode = 'en-us'
 title = 'some blog!'
 
 theme = "etch"
+
+[params]
+  description = "Your site description"
+  copyright = "Copyright © 2022 Your Name"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20

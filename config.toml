@@ -13,8 +13,8 @@ theme = "etch"
 
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
-    title = "posts"
+    name = "index"
+    title = "index"
     url = "/"
     weight = 10
 

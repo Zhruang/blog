@@ -11,6 +11,14 @@ theme = "etch"
   highlight = true
 
 [menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
   [[menu.main]]
     identifier = "about"
     name = "about"
@@ -20,3 +28,10 @@ theme = "etch"
 
 [permalinks]
   posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true

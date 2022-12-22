@@ -3,7 +3,9 @@ title: "Alta traición"
 date: 2022-10-23
 ---
 
-## Alta traición – José Emilio Pacheco
+> To share a poem by José Emilio Pacheco.
+
+## Alta traición
 
 No amo mi Patria. Su fulgor abstracto
 es inasible.

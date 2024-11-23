@@ -4,107 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "44dfedb5967a44ef",
+        "id": "5f3695dbe822cbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "2101f7bb139d50c7",
+            "id": "251571bb70953f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浪漫与革命.md",
+                "file": "artist statement.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b003c72f5f0766ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "high-treason.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9db577050a706cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "截图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e60d34beae452f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ne-pas-réformer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7baf72ef8e9b15e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "genesis-of-art.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13d53fbd175e0276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "浪漫与革命.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a641ebc79bf061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "high-treason.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83ed20be6a18441a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "灰域.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "artist statement"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,7 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c1c94c48a6e9356e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -170,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "灰域.md",
+                "file": "artist statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for artist statement"
             }
           },
           {
@@ -187,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "灰域.md",
+                "file": "artist statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from artist statement"
             }
           },
           {
@@ -201,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -210,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "灰域.md"
-              }
+                "file": "artist statement.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of artist statement"
             }
           }
         ]
@@ -231,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83ed20be6a18441a",
+  "active": "251571bb70953f69",
   "lastOpenFiles": [
-    "thesaurus.md",
     "灰域.md",
+    "artist statement.md",
     "high-treason.md",
+    "thesaurus.md",
     "小偷.md",
     "genesis-of-art.md",
     "ne-pas-réformer.md",

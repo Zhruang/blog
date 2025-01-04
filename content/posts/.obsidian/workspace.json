@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy without sport.md",
+                "file": "philosophy-without-sport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy without sport"
+              "title": "philosophy-without-sport"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "21ea6ec512d0a38d",
@@ -218,9 +217,9 @@
   },
   "active": "bc857190c4618815",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Philosophy without sport.md",
     "困境作为盾牌.md",
+    "philosophy-without-sport.md",
+    "Untitled 1.md",
     "on-photo-book.md",
     "artist-statement.md",
     "灰域.md",

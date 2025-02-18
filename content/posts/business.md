@@ -1,0 +1,5 @@
+---
+title: “Business as usual”
+date: 2025-02-18
+---
+The assumption that people within the art ecosystem or higher education cling to their ivory tower and are thus removed from real life is a telling embodiment of capitalistic logic under which the reality of human society is only positively composed of productive activities in relation to capital. Any activity not fitting this logic is at best a distraction. But even such a reasoning would be obsolete, if not delusional from the start, for capitalistic logic has long integrated seamlessly into the fabric of art and higher education to the point where they have effectively become two major motors of the capitalist system today. How can one get so comfortable claiming that an art worker or a college lecturer is more detached from reality than a human resources manager or a salesperson, if not based on the illusion that the latter two bear a more immediate relation to the operation of _business_?

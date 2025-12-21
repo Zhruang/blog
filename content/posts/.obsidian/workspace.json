@@ -169,8 +169,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -264,6 +264,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -274,11 +275,11 @@
   },
   "active": "5973d61b9d6d99da",
   "lastOpenFiles": [
+    "artist.md",
+    "art-making gaze.md",
     "youth.md",
     "business.md",
     "philosophy-without-sport.md",
-    "artist.md",
-    "art-making gaze.md",
     "on-photo-book.md",
     "困境作为盾牌.md",
     "Untitled 1.md",

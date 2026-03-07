@@ -9,7 +9,7 @@ theme = "etch"
   dark = "auto"
   highlight = true
 
-  [params.Author]
+  [params.author]
     name = "Ruyang Zheng"
     email = "ruyangz@outlook.com"
 

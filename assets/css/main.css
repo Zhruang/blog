@@ -14,8 +14,8 @@ body {
     color: #313a3d;
     width: 100%;
     margin: 0 auto;
-    padding: 0 16px;
-    line-height: 1.6;
+    padding: 16px 16px;
+    line-height: 1.8;
     overflow-wrap: break-word;
 }
 

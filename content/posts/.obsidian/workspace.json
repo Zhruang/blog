@@ -111,16 +111,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "youth.md",
+                "file": "art-making gaze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "youth"
+              "title": "art-making gaze"
+            }
+          },
+          {
+            "id": "06cdb7d516732192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "art-procedure-asceticism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "art-procedure-asceticism"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -273,15 +287,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5973d61b9d6d99da",
+  "active": "06cdb7d516732192",
   "lastOpenFiles": [
+    "art-making gaze.md",
+    "art-procedure-asceticism.md",
+    "youth.md",
     "business.md",
     "困境作为盾牌.md",
     "philosophy-without-sport.md",
     "artist-statement.md",
-    "art-making gaze.md",
     "artist.md",
-    "youth.md",
     "on-photo-book.md",
     "Untitled 1.md",
     "灰域.md",

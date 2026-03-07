@@ -9,7 +9,8 @@ theme = "etch"
   dark = "auto"
   highlight = true
 
-  Author.email = "ruyangz@outlook.com'
+  [params.author]
+    email = "ruyangz@outlook.com"
 
 [menu]
 

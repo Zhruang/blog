@@ -14,7 +14,7 @@ body {
     color: #313a3d;
     width: 100%;
     margin: 0 auto;
-    padding: 16px 16px;
+    padding: 16px 16px 32px 16px;
     line-height: 1.8;
     overflow-wrap: break-word;
 }
@@ -55,7 +55,6 @@ header#banner nav ul {
 header#banner nav ul li {
     display: inline;
     margin: 0 3px;
-    line-height: 1.6;
 }
 
 header#banner nav ul li a {
@@ -153,6 +152,7 @@ main#content ul#posts {
 main#content ul#posts li {
     margin: 5px 0;
     padding: 0;
+    line-height: 1.5;
 }
 
 main#content ul#posts small {

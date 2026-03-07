@@ -1,26 +1,7 @@
-baseURL = "https://Zhruang.github.io/blog/"
-languageCode = 'en-us'
-title = 'ZHENG Ruyang’s blog ｜ 郑儒阳的部落格'
+# Title
 
-theme = "etch"
+...other content...
 
-[params]
-  description = "..."
-  dark = "auto"
-  highlight = true
+[params.author] = "Author Name"
 
-  [params.Author]
-    email = "ruyangz@outlook.com"
-
-[menu]
-
-
-[permalinks]
-  posts = "/:title/"
-
-[markup.goldmark.renderer]
-  # Allow HTML in Markdown
-  unsafe = true
-
-  [markup.tableOfContents]
-    ordered = true
+...other sections...

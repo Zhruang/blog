@@ -55,6 +55,7 @@ header#banner nav ul {
 header#banner nav ul li {
     display: inline;
     margin: 0 3px;
+    line-height: 1.6;
 }
 
 header#banner nav ul li a {

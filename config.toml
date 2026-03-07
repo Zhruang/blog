@@ -9,7 +9,7 @@ theme = "etch"
   dark = "auto"
   highlight = true
 
-  author.email = "ruyangz@outlook.com'
+  Author.email = "ruyangz@outlook.com'
 
 [menu]
 

@@ -1,0 +1,11 @@
+---
+title: The right to protest
+date: 2026-04-09
+---
+There is hardly anything more lamentable than the enthusiasm for the right to protest. It may appear to citizens of an authoritarian state that this shall be an object of longing and envy, to citizens of a democratic state a birthright worth at all costs defending. How civilized a society has come to be, granting permission to assemblies at the city square, police deployed only to facilitate smooth operation. Dissent is institutionalized, even constitutionalized. Consent made: let people speak aloud. 
+
+But what is this consent to dissent, if not an attempt to thoroughly circumscribe its volatile forces via administrative means, to reconfigure the frontiers of discourse so that it can never transgress, to carefully monitor and moderate the unfolding of events to allow that rants are let out into the air but voices are not heard. Kids are dropped at the IKEA Småland exhausting their energies for the tranquility of adults making important refurbishing decisions. The right to protest is not a conquest of freedom but a mechanism of its containment. 
+
+There is no way around it: meaningful acts of protest (direct action) are by necessity transgressive, extra-lawful, disorderly, unbridled by any institutional framing that will at any time capture them as mere ambient noise as the State so desires. In this case, the difference between an authoritarian state and a democratic one lies in the thickness of hypocrisy, in the degree to which the ruling class can tolerate a few tickles without becoming too annoyed. I don’t mean that such a difference in practice is without significance. What I ultimately insist is that such a thing as the right to protest should not be so fervently desired but rather suspected. It is not the institution of the right to protest but rather the fear and disturbance that acts of rebellion create within the circuits of the State, with which we can gauge the force of our struggles and take stock of our victories. 
+
+In this sense, paradoxically perhaps, it is in fact easier to stage effective subversions against an authoritarian state than a democratic one. The rigidity of authoritarian discourse and order, as it refuses to absorb and lacks the necessary tactics to absorb dissent, remains more vulnerable to the daggers drawn.
